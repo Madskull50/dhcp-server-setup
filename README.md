@@ -33,12 +33,6 @@ This project documents the step-by-step process for setting up a DHCP (Dynamic H
 
 ---
 
-## 📂 Documentation
-
-See [`docs/dhcp-setup-guide.md`](docs/dhcp-setup-guide.md) for a full walkthrough.
-
----
-
 ## 🔧 Basic Setup Steps
 
 1. Install the DHCP Server Role
